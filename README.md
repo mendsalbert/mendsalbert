@@ -1,7 +1,7 @@
 ### Hi there, I'm <a href="https://mendsalbert-liart.vercel.app" target="_blank">Mends Albert</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mends-albert/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://mendsalbert-liart.vercel.app)
+<!-- [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://mendsalbert-liart.vercel.app) -->
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/mendsalbert)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/mendsalbert_/)
 
@@ -22,9 +22,9 @@ That's why I enjoy creating things that have a positive impact.
 - 👨🏻‍💻 I’m currently working on something cool;
 - 🚀 I’m currently learning Web3(Blockchains), Date Structures and Algorithms and Theory of Computation;
 - 💬 Ask me about anything, I am happy to help;
-- 📝 I regulary write articles on [blog.mendsalbert.com](https://mendsalbert-liart.vercel.app/blog);
+<!-- - 📝 I regulary write articles on [blog.mendsalbert.com](https://mendsalbert-liart.vercel.app/blog); -->
 - 📫 How to reach me: mendsalbert@gmail.com;
-- 📝 [Resume](https://mendsalbert-liart.vercel.app).
+<!-- - 📝 [Resume](https://mendsalbert-liart.vercel.app). -->
 
 </br>
 
