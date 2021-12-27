@@ -9,7 +9,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=mendsalbert.mendsalbert)
 
-I am a full-stack software engineer and writer. I love programming, writing, speaking and drawing.
+I am a full-stack software engineer and a writer. I love programming, writing, speaking and drawing.
 
 As a software developer, I get to put my compulsive attention to detail to good use, as well as my undeniable passion for creating things that impact the world.
 That's why I enjoy creating things that have a positive impact. 
