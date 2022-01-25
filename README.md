@@ -29,7 +29,7 @@ That's why I enjoy creating things that have a positive impact.
 </br>
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Visual_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Visual-Code-informational?style=flat&logo=visualstudiocode-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
@@ -48,7 +48,7 @@ That's why I enjoy creating things that have a positive impact.
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=2bbc8a)
 
 
-📊 **This Week I Spent My Time On:**
+<!--  📊 **This Week I Spent My Time On:** -->
 <!--START_SECTION:waka-->
 ```text
 Javascript               19 hrs 51 mins  ███████████████████████░░   91.51 % 
@@ -56,7 +56,7 @@ Tailwindcs CSS           1 hr 26 mins    █▓░░░░░░░░░░░
 Typescript               18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 Websockets               3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 JSON                     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
-```
+``` 
 <!--END_SECTION:waka-->
 
 
