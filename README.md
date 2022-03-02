@@ -16,6 +16,13 @@ That's why I enjoy creating things that have a positive impact.
 
 <img align="right" alt="GIF" src="https://github.com/mendsalbert/mendsalbert/blob/main/coding.gif?raw=true" width="408" height="318" />
   
+### Tech Stack
+![JavaScript](https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![React](https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB)
+![CSS](https://img.shields.io/badge/-css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 
 **Talking about Personal Stuffs:**
 
