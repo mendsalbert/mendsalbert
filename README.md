@@ -1,4 +1,4 @@
-### Hi there, I'm <a href="https://mendsalbert.netlify.app" target="_blank">Mends Albert</a>'
+### Hi there, I'm <a href="https://mendsalbert.netlify.app" target="_blank">Mends Albert</a>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mends-albert/)
