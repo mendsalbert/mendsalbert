@@ -34,8 +34,8 @@ That's why I enjoy creating things that have a positive impact.
 - 🚀 I’m currently learning Web3(Blockchains), Date Structures and Algorithms and Theory of Computation;
 - 💬 Ask me about anything, I am happy to help;
 <!-- - 📝 I regulary write articles on [blog.mendsalbert.com](https://mendsalbert-liart.vercel.app/blog); -->
-- 📫 How to reach me: mendsalbert@gmail.com;
-<!-- - 📝 [Resume](https://mendsalbert-liart.vercel.app). -->
+- 📫 How to reach me: mendsalbert.com;
+<!-- - 📝 [Resume](https://mendsalbert.com). -->
 
 </br>
 
