@@ -10,8 +10,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=mendsalbert.mendsalbert)
 
-Versatile and friendly professional with a knack for diving into data! I love exploring data, creating cool visualizations, and testing out hypotheses. I'm skilled in machine learning techniques like Naive Bayes and decision trees. Whether it's using spreadsheets, Python, or Tableau, I'm your go-to person for thorough data analysis. Plus, I'm great at communicating, staying organized, and being analytical. Just earned the Google Advanced Data Analytics Certificate – a hands-on program covering all things data analysis and modeling. Let's chat data!
-
+Hey there! I'm not just your data enthusiast; I'm also a software engineer and web developer, bringing a tech-savvy touch to everything I do. When I'm not immersed in coding or exploring data, you'll find me indulging in my love for documentaries. Oh, and did I mention I enjoy whipping up some delicious dishes in the kitchen too? Let's connect and share some stories, whether it's about data, coding, documentaries, or the latest recipe I've tried! 😊
 <img align="right" alt="GIF" src="https://github.com/mendsalbert/mendsalbert/blob/main/coding.gif?raw=true" width="408" height="318" />
   
 ### Tech Stack
