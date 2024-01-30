@@ -10,10 +10,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=mendsalbert.mendsalbert)
 
-I am a full-stack software engineer and a writer. I love programming, writing, speaking and drawing.
-
-As a software developer, I get to put my compulsive attention to detail to good use, as well as my undeniable passion for creating things that impact the world.
-That's why I enjoy creating things that have a positive impact. 
+Versatile and friendly professional with a knack for diving into data! I love exploring data, creating cool visualizations, and testing out hypotheses. I'm skilled in machine learning techniques like Naive Bayes and decision trees. Whether it's using spreadsheets, Python, or Tableau, I'm your go-to person for thorough data analysis. Plus, I'm great at communicating, staying organized, and being analytical. Just earned the Google Advanced Data Analytics Certificate – a hands-on program covering all things data analysis and modeling. Let's chat data!
 
 <img align="right" alt="GIF" src="https://github.com/mendsalbert/mendsalbert/blob/main/coding.gif?raw=true" width="408" height="318" />
   
