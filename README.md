@@ -14,6 +14,8 @@ Hey there! I'm not just your data enthusiast; I'm also a software engineer and w
 <img align="right" alt="GIF" src="https://github.com/mendsalbert/mendsalbert/blob/main/coding.gif?raw=true" width="408" height="318" />
   
 ### Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![React](https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -27,7 +29,7 @@ Hey there! I'm not just your data enthusiast; I'm also a software engineer and w
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working on something cool;
-- 🚀 I’m currently learning Web3(Blockchains), Date Structures and Algorithms and Theory of Computation;
+- 🚀 I’m currently Building machine learning projects;
 - 💬 Ask me about anything, I am happy to help;
 <!-- - 📝 I regulary write articles on [blog.mendsalbert.com](https://mendsalbert-liart.vercel.app/blog); -->
 - 📫 How to reach me: mendsalbert.com;
